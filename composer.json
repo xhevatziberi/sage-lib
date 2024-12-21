@@ -30,8 +30,8 @@
   "require": {
     "php": ">=7.1",
     "composer/installers": "~1.0",
-    "illuminate/view": "~10.48",
-    "illuminate/config": "~10.48"
+    "illuminate/view": "8",
+    "illuminate/config": "8"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "~3.3.1"
